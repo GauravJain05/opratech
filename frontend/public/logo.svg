@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect x="4" y="4" width="112" height="112" rx="24" fill="#2C4234" stroke="#C89B53" stroke-width="3"/>
+  <!-- Stylized Cotton Boll icon -->
+  <g transform="translate(60, 48) scale(0.85)">
+    <!-- Cotton puffs -->
+    <circle cx="-16" cy="-6" r="14" fill="#F6F3EB" opacity="0.95"/>
+    <circle cx="16" cy="-6" r="14" fill="#F6F3EB" opacity="0.95"/>
+    <circle cx="0" cy="-18" r="15" fill="#FFFFFF"/>
+    <circle cx="0" cy="0" r="13" fill="#ECE7DB"/>
+    <!-- Sepals / calyx -->
+    <path d="M-22,6 C-10,14 0,16 0,26 C0,16 10,14 22,6 C14,18 0,26 0,26 C0,26 -14,18 -22,6 Z" fill="#C89B53"/>
+    <path d="M-10,4 C-4,10 0,14 0,22 C0,14 4,10 10,4 Z" fill="#A87E34"/>
+  </g>
+  <!-- Text -->
+  <text x="60" y="94" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="12" letter-spacing="2" fill="#FAF3E5">COTTON</text>
+  <text x="60" y="106" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="600" font-size="9" letter-spacing="1.5" fill="#C89B53">JUNCTION</text>
+</svg>
